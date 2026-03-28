@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I' am Gabriel Freire
 
 - 🔭 I’m currently studing on data, AI and finance
 - 🌱 I’m currently learning Python, SQL, n8n...
